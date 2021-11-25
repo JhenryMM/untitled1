@@ -18,7 +18,7 @@ public class main {
        e.alimentar(7);
        System.out.println(Animal.getContador());
        System.out.println("nose");
-
+                        System.out.println("para");
     }
 
 }
